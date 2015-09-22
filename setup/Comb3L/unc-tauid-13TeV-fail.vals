@@ -1,0 +1,10 @@
+failOS   TT,DYB,DYS120            lumi_8TeV        1.05
+failOS   QCD                         QCD_OS_SS_SF     1.05
+failOS   TT                       xs_tt            1.15
+failOS   DYS120,DYB,TT            CMS_eff_m        1.02
+failOS   DYS120,DYB                  xs_DY            1.03
+failOS   W                       wNormFail        1.10
+failOS   DYS120,DYB,TT,W,QCD  TES             1.0
+#failOS   TT,DYB                   _fr              1.0
+#failOS   QCD                         _qcdNormFail     1.0
+

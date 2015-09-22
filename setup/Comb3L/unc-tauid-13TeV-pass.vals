@@ -1,0 +1,11 @@
+
+passOS   DYS120,DYB,TT              lumi_8TeV        1.05
+passOS   QCD                           QCD_OS_SS_SF     1.05
+passOS   DYS120,TT,DYB              CMS_eff_m        1.02
+passOS   DYS120,DYB                    xs_DY            1.03
+passOS   W                         wNormPass        1.10
+passOS   TT                         xs_tt            1.15
+passOS   DYS120,DYB,TT,W,QCD    TES             1.0
+#passOS   TT,DYB                     _fr              1.0
+#passOS   QCD                           _qcdNormPass     1.0
+
